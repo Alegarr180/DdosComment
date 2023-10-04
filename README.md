@@ -14,7 +14,7 @@ In addition, when you click on a button, a new window will be created with a dir
 
 ![image](https://github.com/Alegarr180/DdosComment/assets/57905049/a678a229-aaa0-4e26-9e1d-a56975541ee8)
 
-This is the result when you paste your clipboard: Trafico TCP ACK src ip 34.104.35.123/32 de GOOGLE US // src port 80 dst port 1024-65535
+This is the result when you paste your clipboard: Trafico TCP ACK src ip X.X.X.X/32 de GOOGLE US // src port 80 dst port 1024-65535
 
 ## How to use it?
 
