@@ -1,5 +1,5 @@
 # DdosComment
-Chrome Extension - Creates comments automatically under the format of Telefonica Tech
+Chromium Extension - Creates comments automatically under the format of Telefonica Tech
 Runs on Netscout's AntiDDoS platform Arbor Peakflow
 
 ## What it does?
@@ -15,3 +15,19 @@ In addition, when you click on a button, a new window will be created with a dir
 ![image](https://github.com/Alegarr180/DdosComment/assets/57905049/a678a229-aaa0-4e26-9e1d-a56975541ee8)
 
 This is the result when you paste your clipboard: Trafico TCP ACK src ip 34.104.35.123/32 de GOOGLE US // src port 80 dst port 1024-65535
+
+## How to use it?
+
+1.- Download de main folder "tech"
+
+2.- Activate the Developer Mode in Google Chrome (or any Chromium based browser)
+
+![image](https://github.com/Alegarr180/DdosComment/assets/57905049/0ce31e6e-c251-4259-86f0-bc32d2dec567)
+
+3.- Load the folder
+
+![image](https://github.com/Alegarr180/DdosComment/assets/57905049/623b7b9f-4211-4c12-8402-1dbafc3fa61e)
+
+4.- Enjoy it!
+
+![image](https://github.com/Alegarr180/DdosComment/assets/57905049/a337028c-3acc-4c66-b5bc-d3bdf0eb621b)
