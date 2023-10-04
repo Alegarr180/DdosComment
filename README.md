@@ -8,7 +8,7 @@ It generates buttons to select the row of information we want to extract. When y
 
 I case of clicking the button 5, the following data will be copied:
 
-![image](https://github.com/Alegarr180/DdosComment/assets/57905049/da6813c0-00b4-4e26-a620-76f26ffdac2e)
+![image](https://github.com/Alegarr180/DdosComment/assets/57905049/ce7c74ce-1f81-4909-88d7-53bed469821a)
 
 In addition, when you click on a button, a new window will be created with a direct search on the AbuseIPDB database. Here you can check if the origin of the IP is malicious or not.
 
